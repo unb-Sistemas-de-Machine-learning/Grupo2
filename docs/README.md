@@ -4,8 +4,8 @@
 
 </center>
 
-> Professor: Carla Silva Rocha Aguiar
-> Semestre: 2025.2   
+> Professor: Carla Silva Rocha Aguiar    
+> Semestre: 2025.2    
 > Tema: API de consulta acadêmica para a Universidade de Brasília (UnB)
 
 <center>
