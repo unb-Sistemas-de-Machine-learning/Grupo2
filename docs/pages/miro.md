@@ -1,82 +1,92 @@
-# Artefatos elicitados
+# Artefatos Elicitados
 
 <center>
 
- **Figura 1**: Causes Canvas
+**Figura 1**: Causes Canvas
+
 </center>
 
 <center>
-    <img src="https://raw.githubusercontent.com/unb-Sistemas-de-Machine-learning/Grupo2-ChiquinhoAI/ae23888016db4f13320075f50d37cfb3b878b278/docs/assets/logo.png?raw=true" style="width:12vw"/> 
-</center>
-
-<center>
-
-   **Fonte**: Santos, Reis, Carvalho, Ginuino (2025). 
-</center>
-
----
-
-<center>
-
- **Figura 2**: Ideas Canvas
-</center>
-
-<center>
-    <img src="https://raw.githubusercontent.com/unb-Sistemas-de-Machine-learning/Grupo2-ChiquinhoAI/ae23888016db4f13320075f50d37cfb3b878b278/docs/assets/logo.png?raw=true" style="width:12vw"/> 
+    <img src="assets/DESIGN_THINKING_CAUSES_CANVAS.png" alt="Causes Canvas" style="width:100%; max-width: 800px;"/>
 </center>
 
 <center>
 
-   **Fonte**: Santos, Reis, Carvalho, Ginuino (2025). 
-</center>
+**Fonte**: Santos, Reis, Carvalho, Ginuino (2025).
 
----
-
-
-<center>
-
- **Figura 3**: Idea Filter Canvas
-</center>
-
-<center>
-    <img src="https://raw.githubusercontent.com/unb-Sistemas-de-Machine-learning/Grupo2-ChiquinhoAI/ae23888016db4f13320075f50d37cfb3b878b278/docs/assets/logo.png?raw=true" style="width:12vw"/> 
-</center>
-
-<center>
-
-   **Fonte**: Santos, Reis, Carvalho, Ginuino (2025). 
 </center>
 
 ---
 
 <center>
 
- **Figura 4**: Parking Lot of Ideas Canvas
+**Figura 2**: Ideas Canvas
+
 </center>
 
 <center>
-    <img src="https://raw.githubusercontent.com/unb-Sistemas-de-Machine-learning/Grupo2-ChiquinhoAI/ae23888016db4f13320075f50d37cfb3b878b278/docs/assets/logo.png?raw=true" style="width:12vw"/> 
+    <img src="assets/DESIGN_THINKING_ IDEAS_CANVAS.png" alt="Ideas Canvas" style="width:100%; max-width: 800px;"/>
 </center>
 
 <center>
 
-   **Fonte**: Santos, Reis, Carvalho, Ginuino (2025). 
+**Fonte**: Santos, Reis, Carvalho, Ginuino (2025).
+
+</center>
+
+---
+
+
+<center>
+
+**Figura 3**: Idea Filter Canvas
+
+</center>
+
+<center>
+    <img src="assets/DESIGN_ THINKING_IDEA_FILTER_CANVAS.png" alt="Idea Filter Canvas" style="width:100%; max-width: 800px;"/>
+</center>
+
+<center>
+
+**Fonte**: Santos, Reis, Carvalho, Ginuino (2025).
+
 </center>
 
 ---
 
 <center>
 
- **Figura 5**: ML Canva
+**Figura 4**: Parking Lot of Ideas Canvas
+
 </center>
 
 <center>
-    <img src="https://raw.githubusercontent.com/unb-Sistemas-de-Machine-learning/Grupo2-ChiquinhoAI/ae23888016db4f13320075f50d37cfb3b878b278/docs/assets/logo.png?raw=true" style="width:12vw"/> 
+    <img src="assets/PARKING_LOT_OF_ IDEAS_CANVAS.png" alt="Parking Lot of Ideas Canvas" style="width:100%; max-width: 800px;"/>
 </center>
 
 <center>
 
-   **Fonte**: Santos, Reis, Carvalho, Ginuino (2025). 
+**Fonte**: Santos, Reis, Carvalho, Ginuino (2025).
+
+</center>
+
+---
+
+<center>
+
+**Figura 5**: ML Canvas
+
+</center>
+
+<center>
+    <img src="assets/ML_CANVAS.png" alt="ML Canva" style="width:100%; max-width: 800px;"/>
+</center>
+
+<center>
+
+**Fonte**: Santos, Reis, Carvalho, Ginuino (2025).
+
 </center>
 
 ---
