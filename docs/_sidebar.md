@@ -3,5 +3,5 @@
 </a>
 
 * **Módulo 1**
-    * [Elicitação](pages/)
+    * [Elicitação](pages/elicitacao.md)
     * [Backlog](pages/)
