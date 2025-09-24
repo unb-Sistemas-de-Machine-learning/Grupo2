@@ -1,7 +1,5 @@
 # Artefatos elicitados
 
----
-
 <center>
 
  **Figura 1**: Causes Canvas
@@ -17,7 +15,6 @@
 </center>
 
 ---
-
 
 <center>
 
