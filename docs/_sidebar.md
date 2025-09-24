@@ -4,4 +4,5 @@
 
 * **Módulo 1**
     * [Elicitação](pages/elicitacao.md)
+    * [Artefatos](pages/miro.md)
     * [Backlog](pages/)
