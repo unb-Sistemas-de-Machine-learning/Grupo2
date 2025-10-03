@@ -3,6 +3,7 @@
 </a>
 
 * **Módulo 1**
-    * [Elicitação](pages/elicitacao.md)
+    * [Sobre](pages/sobre.md)
+    * [Requisitos](pages/requisitos.md)
     * [Artefatos](pages/miro.md)
     * [Backlog](pages/)
