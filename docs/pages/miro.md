@@ -1,4 +1,10 @@
+<center>
+
 # Artefatos Elicitados
+
+</center>
+
+---
 
 <center>
 
@@ -104,5 +110,3 @@
 | 24/09/2025 | `1.0`  | Criação do documento | [João Ginuino](https://github.com/i-JSS) |
 
 </div>
-
----
