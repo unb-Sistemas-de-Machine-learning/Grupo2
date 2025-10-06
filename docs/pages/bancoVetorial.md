@@ -11,7 +11,9 @@
 <div align="justify">
 
 &emsp;&emsp;
-TRALALA
+Enquanto bancos de dados tradicionais são excelentes para encontrar correspondências exatas, como clientes com um nome específico ou produtos de um determinado valor, a principal utilidade de um banco de dados vetorial é localizar itens que são semanticamente similares ou conceitualmente relacionados. Sua operação não se baseia em termos literais, mas sim na "proximidade de significado" entre os dados, permitindo que as aplicações entendam o contexto.
+
+Isso possibilita, por exemplo, a implementação de uma busca semântica avançada, onde um sistema compreende a intenção de uma consulta e retorna resultados pertinentes, mesmo que não contenham as mesmas palavras. De forma semelhante, essa tecnologia é o fundamento de sistemas de recomendação, que encontram produtos ou conteúdos com características vetoriais parecidas para sugerir itens de interesse ao usuário. Uma de suas aplicações mais proeminentes atualmente é a Geração Aumentada por Recuperação (RAG), na qual assistentes de IA consultam documentos internos para fornecer respostas precisas e contextualizadas. O mesmo princípio se aplica à busca por similaridade de imagens ou áudios e à detecção de anomalias, como identificar uma transação financeira que desvia do padrão de um cliente, sinalizando uma possível fraude. Em resumo, sua função é mover a busca do campo das palavras-chave para o do significado, permitindo que a inteligência artificial opere com uma compreensão mais profunda da informação.
 </div>
 
 ---
@@ -21,7 +23,10 @@ TRALALA
 <div align="justify">
 
 &emsp;&emsp;
-TRALALA
+O Qdrant é um banco de dados vetorial de código aberto projetado para armazenar, indexar e consultar vetores de alta dimensão de forma eficiente. Ele permite realizar buscas por similaridade com alto desempenho, utilizando algoritmos de indexação como o HNSW (Hierarchical Navigable Small World), que reduz significativamente o tempo necessário para encontrar vetores próximos entre milhões de registros.Além da performance, o Qdrant oferece recursos adicionais que o tornam ideal para aplicações reais, como filtros condicionais, suporte a payloads (dados associados aos vetores), autenticação, persistência em disco e API RESTful e gRPC fáceis de integrar. Com ele, é possível combinar buscas vetoriais com consultas tradicionais, por exemplo: encontrar documentos semanticamente semelhantes apenas dentro de uma determinada categoria.
+
+  
+O Qdrant é amplamente utilizado em aplicações de IA, como busca semântica, recomendação de conteúdo, chatbots com RAG (Retrieval-Augmented Generation), análise de similaridade e detecção de anomalias. Ele se integra facilmente com modelos de linguagem e ferramentas de embeddings, como os fornecidos pela OpenAI, Cohere, Sentence Transformers, entre outros.
 </div>
 
 ---
@@ -31,7 +36,9 @@ TRALALA
 <div align="justify">
 
 &emsp;&emsp;
-TRALALA
+Os embeddings são representações numéricas de dados — como textos, imagens, áudios ou vídeos — em um espaço vetorial. Em termos simples, um embedding transforma uma informação complexa (por exemplo, uma frase) em um vetor de números reais, que captura o significado e as relações semânticas entre os elementos.
+  
+Isso é alcançado através de modelos de Machine Learning, como BERT ou CLIP, que foram treinados com vastos conjuntos de dados para entender essas relações. Ao receber uma entrada, como uma frase, o modelo a processa e converte em um vetor composto por centenas de números. O resultado fundamental é que dados com significados semelhantes geram vetores numericamente próximos em um espaço multidimensional. 
 </div>
 
 ---
