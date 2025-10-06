@@ -34,9 +34,9 @@ A arquitetura segue o modelo RAG, Retrieval-Augmented Generation, que combina re
 
 ## Tecnologias Utilizadas
 
-* **Banco de Dados Vetorial**: Qdrant - Python
+* **Banco de Dados Vetorial**: Qdrant
 * **Modelos de Machine Learning**: Gemini Pro - Google Cloud
-* **API**: Telegram Bot API
+* **API**: Telegram Bot API - Python
 * **Web Scraper**: BeautifulSoup - Python
 
 ---
@@ -54,5 +54,3 @@ A arquitetura segue o modelo RAG, Retrieval-Augmented Generation, que combina re
 | 06/10/2025 | `1.0`  | Criação do documento | [João Ginuino](https://github.com/i-JSS) |
 
 </div>
-
----
