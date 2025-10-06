@@ -32,7 +32,7 @@ A arquitetura segue o modelo RAG, Retrieval-Augmented Generation, que combina re
 
 ---
 
-## Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 
 * **Banco de Dados Vetorial**: Qdrant
 * **Modelos de Machine Learning**: Gemini Pro - Google Cloud
