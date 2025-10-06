@@ -41,7 +41,7 @@ TRALALA
 <div align="justify">
 
 &emsp;&emsp;
-TRALALA
+A identificação de dados próximos é feita comparando vetores, que são representações numéricas do texto. Cada documento, frase ou trecho é transformado em um vetor que mostra o significado daquele conteúdo. Isso é feito por modelos chamados embeddings, que convertem o texto em números para que o sistema consiga medir o quanto dois conteúdos são parecidos.
 </div>
 
 ---
@@ -51,17 +51,10 @@ TRALALA
 <div align="justify">
 
 &emsp;&emsp;
-TRALALA
-</div>
-
----
-
-#### Transformando Dados Não Estruturados em Números
-
-<div align="justify">
+A conversão de arquivos PDF em vetores é uma etapa essencial no processo de indexação semântica. Primeiramente, o conteúdo textual é extraído do documento, removendo metadados, elementos gráficos e formatações desnecessárias. Em seguida, o texto é segmentado em blocos menores, como parágrafos ou frases, para otimizar o desempenho na recuperação de informações.
 
 &emsp;&emsp;
-TRALALA
+Esses blocos são enviados a um modelo de embeddings, que cria um vetor numérico que representa o significado de cada trecho. Esses vetores são armazenados em um banco de dados vetorial (como o Qdrant), permitindo que o sistema faça buscas semânticas rápidas e precisas, com base na proximidade entre os vetores, e não apenas em correspondências exatas de palavras.
 </div>
 
 ---
