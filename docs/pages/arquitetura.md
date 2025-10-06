@@ -6,10 +6,38 @@
 
 ---
 
-> A arquitetura segue o modelo Cliente-Servidor, sendo o frontend o cliente e o
-backend o servidor, a representação aquitetural a Figura 17 demonsta como é a interação
-entre essas camadas.
 
+<div align="justify">
+
+&emsp;&emsp;
+A arquitetura segue o modelo RAG, Retrieval-Augmented Generation, que combina recuperação de informações com geração de texto para fornecer respostas precisas e contextuais. Sendo assim, podemos dividir a aplicação em três componentes principais: o banco de dados vetorial, os modelos de machine learning e a API, conforme ilustrado na Figura 1 desta página.
+</div>
+
+
+<center>
+
+**Figura 1**: Representação arquitetural do sistema.
+
+</center>
+
+<center>
+    <img src="assets/arquitetura.png" alt="Arquitetura" style="width:100%; max-width: 800px;"/>
+</center>
+
+<center>
+
+**Fonte**: Carvalho, Ginuino (2025).
+
+</center>
+
+---
+
+## Tecnologias Utilizadas
+
+* **Banco de Dados Vetorial**: Qdrant - Python
+* **Modelos de Machine Learning**: Gemini Pro - Google Cloud
+* **API**: Telegram Bot API
+* **Web Scraper**: BeautifulSoup - Python
 
 ---
 
