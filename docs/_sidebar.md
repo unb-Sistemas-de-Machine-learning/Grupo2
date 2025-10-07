@@ -8,6 +8,7 @@
   * [Requisitos de Produto](pages/requisitos.md)
   * [Requisitos de Machine Learning](pages/requisitosMl.md)
   * [Artefatos](pages/miro.md)
+  * [História de Usuário](pages/historiaUsuario.md)
   * [Backlog](pages/)
 * **Modelagem**
   * [Arquitetura](pages/arquitetura.md)
