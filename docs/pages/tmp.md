@@ -150,19 +150,3 @@ As ferramentas específicas foram:
 
 A utilização sistemática destes artefatos permitiu uma transição clara e bem documentada da fase de problema para a de solução. O processo resultou em uma compreensão profunda das necessidades do usuário, um escopo de projeto bem definido (piloto na FCTE), requisitos detalhados e um plano claro para o desenvolvimento técnico do sistema de IA. Esta base sólida é essencial para guiar os próximos passos na construção do MVP.
 
----
-
-<center>
-
-## Histórico de Versão
-
-</center>
-
-<div style="margin: 0 auto; width: fit-content;">
-
-| Data       | Versão | Descrição            | Autores                                   |
-|------------|--------|----------------------|-------------------------------------------|
-| 24/09/2025 | `1.0`  | Criação do documento | [João Ginuino](https://github.com/i-JSS) |
-| 07/10/2025 | `2.0`  | Detalhamento dos artefatos | [Vinicius Santos](https://github.com/ViniciussdeOliveira) |
-
-</div>
