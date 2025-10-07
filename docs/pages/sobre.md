@@ -1,8 +1,6 @@
 # **Sobre**
 
-Nesse primeiro módulo o foco do projeto está nas definições básicas de tecnologia, requisitos, modelos e escopo.
-
-Para a realização de cada tema, foram utilizados Brainstorming, técnicas de elicitação e priorização de requisitos para construir uma base sólida para as próximas fases de desenvolvimento. As seções a seguir detalham as principais decisões e artefatos gerados nesta etapa inicial.
+O acesso eficiente à informação é um pilar fundamental para o sucesso acadêmico e administrativo em uma instituição de ensino superior. Na Universidade de Brasília, a dispersão de documentos oficiais e a complexidade dos regulamentos impõem barreiras significativas à comunidade. Este documento apresenta o projeto de desenvolvimento de uma ferramenta computacional, na forma de um assistente virtual, para mitigar tais dificuldades.
 
 ## **1. Objetivo do Projeto**
 
@@ -42,9 +40,8 @@ Esta abordagem permite criar uma base de conhecimento altamente relevante e prec
 * **Plataforma de Interação:** Telegram
 * **Linguagem de Programação:** Python
 * **Arquitetura de IA:** RAG (Retrieval-Augmented Generation)
-* **Modelos de LLM:** A ser decidido...
-* **Banco de Dados Vetorial:** A ser decidido...
-* **Infraestrutura (Cloud):** A ser decidido...
+* **Modelos de LLM:** Gemini Pro - Google Cloud
+* **Banco de Dados Vetorial:** Qdrant
 
 ## **6. Metodologia e Ferramentas**
 
@@ -66,6 +63,8 @@ Com a conclusão deste módulo de concepção, o próximo passo é iniciar o **d
 
 | Data       | Versão | Descrição            | Autores                                   |
 |------------|--------|----------------------|-------------------------------------------|
-| 02/10/2025 | `1.0`  | Criação do documento | [Vinicius Santos](https://github.com/csreis72) |
+| 02/10/2025 | `1.0`  | Criação do documento | [Vinicius Santos](https://github.com/ViniciussdeOliveira) |
+| 07/10/2025 | `1.1`  | Atulaização da introdução e tecnologias mapeadas | [Vinicius Santos](https://github.com/ViniciussdeOliveira) |
+
 
 </div>

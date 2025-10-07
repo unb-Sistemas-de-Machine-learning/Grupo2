@@ -5,7 +5,8 @@
 
 * [Sobre](pages/sobre.md)
 * **Engenharia de Requisitos**
-  * [Requisitos](pages/requisitos.md)
+  * [Requisitos de Produto](pages/requisitos.md)
+  * [Requisitos de Machine Learning](pages/requisitosMl.md)
   * [Artefatos](pages/miro.md)
   * [Backlog](pages/)
 * **Modelagem**
