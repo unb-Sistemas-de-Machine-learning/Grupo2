@@ -9,7 +9,8 @@
   * [Requisitos de Machine Learning](pages/requisitosMl.md)
   * [Artefatos](pages/miro.md)
   * [História de Usuário](pages/historiaUsuario.md)
-  * [Backlog](pages/)
+  * [Backlog](pages/backlog.md)
+  * [Plano de Projeto](pages/cronograma.md)
 * **Modelagem**
   * [Arquitetura](pages/arquitetura.md)
   * [Banco de Dados Vetorial](pages/bancoVetorial.md)
